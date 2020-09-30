@@ -2,7 +2,9 @@
 
 # XX - Netlify & Vercel
 
-Netlify is a static site hosting service designed to host your personal, organization, or project pages directly from a GitHub repository. Netlify is a static site hosting service and doesn't support server-side code such as, PHP, Ruby, or Python - [Netlify](https://www.netlify.com/)
+In this lesson we're going to create a portfolio and host the website on [Netlify](https://www.netlify.com/).
+
+>Netlify is a static site hosting service designed to host your personal, organization, or project pages directly from a GitHub repository. Netlify is a static site hosting service and doesn't support server-side code such as, PHP, Ruby, or Python - [Netlify](https://www.netlify.com/)
 
 - :scissors: Examples
 
