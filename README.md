@@ -6,8 +6,6 @@ In this lesson we're going to create a portfolio and host the website on [Netlif
 
 >Netlify is a static site hosting service designed to host your personal, organization, or project pages directly from a GitHub repository. Netlify is a static site hosting service and doesn't support server-side code such as, PHP, Ruby, or Python - [Netlify](https://www.netlify.com/)
 
-- :scissors: Examples
-
 - :books: Documentation
 
     - [Netlify](https://docs.netlify.com/site-deploys/create-deploys/)
@@ -15,8 +13,6 @@ In this lesson we're going to create a portfolio and host the website on [Netlif
     - [Vercel](https://vercel.com/docs/git-integrations)
     
     - [Github pages](https://pages.github.com/)
-
-- :link: Links
 
 ## Exercises
 
