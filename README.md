@@ -25,7 +25,9 @@ In this lesson we're going to create a portfolio and host the website on [Netlif
 2. To be able to see anything on our new site we need to create a basic HTML file. Remember that web servers are looking for [index](https://en.m.wikipedia.org/wiki/Webserver_directory_index) files if you're visiting the [root domain](https://raventools.com/marketing-glossary/root-domain/)? Create a new index.html file within your repository. Copy and paste the snippet below. Add, commit and push your changes to GitHub.
 
 > **Tips:** Remember how to get the project to your local computer? [Clone your new repository](https://help.github.com/en/articles/cloning-a-repository)
-    ```html
+   
+   ```html
+    
     <!DOCTYPE html>
     <html lang="en">
         <head>
@@ -36,7 +38,9 @@ In this lesson we're going to create a portfolio and host the website on [Netlif
             <h1>Hello GitHub!</h1>
         </body>
     </html>
+    
     ```
+    
 3. Sign up on [Netlify](https://www.netlify.com/) with your Github account.
 
 4. Click on “New site from Git” and add the repository you just created and deploy the site. Navigate to your new site to make sure everything is working.
