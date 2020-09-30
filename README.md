@@ -27,7 +27,6 @@ In this lesson we're going to create a portfolio and host the website on [Netlif
 > **Tips:** Remember how to get the project to your local computer? [Clone your new repository](https://help.github.com/en/articles/cloning-a-repository)
    
    ```html
-    
     <!DOCTYPE html>
     <html lang="en">
         <head>
@@ -38,7 +37,6 @@ In this lesson we're going to create a portfolio and host the website on [Netlif
             <h1>Hello GitHub!</h1>
         </body>
     </html>
-    
     ```
     
 3. Sign up on [Netlify](https://www.netlify.com/) with your Github account.
