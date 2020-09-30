@@ -1,4 +1,4 @@
-[<img src="https://giphy.com/gifs/season-15-the-simpsons-15x5-l2JdTkHW1KZPdvdS0" width="100%">]
+<img src="https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.gif" width="100%">
 
 # XX - Netlify & Vercel
 
@@ -22,16 +22,16 @@ Netlify is a static site hosting service designed to host your personal, organiz
 
 2. To be able to see anything on our new site we need to create a basic HTML file. Remember that web servers are looking for [index](https://en.m.wikipedia.org/wiki/Webserver_directory_index) files if you're visiting the [root domain](https://raventools.com/marketing-glossary/root-domain/)? Create a new index.html file within your repository. Copy and paste the snippet below. Add, commit and push your changes to GitHub.
 
- > **Tips:** Remember how to get the project to your local computer? [Clone your new repository](https://help.github.com/en/articles/cloning-a-repository)
- ```html
+> **Tips:** Remember how to get the project to your local computer? [Clone your new repository](https://help.github.com/en/articles/cloning-a-repository)
+    ```html
     <!DOCTYPE html>
     <html lang="en">
         <head>
             <meta charset="utf-8" />
-            <title>Netlify</title>
+            <title>GitHub Pages</title>
         </head>
         <body>
-            <h1>Hello Netlify!</h1>
+            <h1>Hello GitHub!</h1>
         </body>
     </html>
     ```
