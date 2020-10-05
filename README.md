@@ -26,7 +26,7 @@ Netlify and Vercel is cloud computing companies that offers hosting and serverle
 
 2. To be able to see anything on our new site we need to create a basic HTML file. Remember that web servers are looking for [index](https://en.m.wikipedia.org/wiki/Webserver_directory_index) files if you're visiting the [root domain](https://raventools.com/marketing-glossary/root-domain/)? Create a new index.html file within your repository. Copy and paste the snippet below. Add, commit and push your changes to GitHub.
 
-> **Tips:** Remember how to get the project to your local computer? [Clone your new repository](https://help.github.com/en/articles/cloning-a-repository)
+    > **Tip:** Remember how to get the project to your local computer? [Clone your new repository](https://help.github.com/en/articles/cloning-a-repository)
    
     ```html
     <!DOCTYPE html>
@@ -49,7 +49,7 @@ Netlify and Vercel is cloud computing companies that offers hosting and serverle
 
 6. Update your website with an [`<img>`](https://htmlreference.io/element/img) of yourself along with your name. Also add links to your social media accounts.
 
-    > **Tip:** If you want to use the GitHub profile picture you can use the following URL: https://github.com/username.png
+    > **Tip:** If you want to use the GitHub profile picture you can use the following URL: `https://github.com/username.png`
 
 7. Personalize your portfolio by adding custom CSS. Make it look pretty and cool. Don't forget about [unicorns](https://media.giphy.com/media/wxZVenBE9msRq/giphy.gif)! When you feel ready, please show your website to your teacher!
 
