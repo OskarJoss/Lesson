@@ -13,6 +13,8 @@ Netlify and Vercel is cloud computing companies that offers hosting and serverle
     - [Github pages](https://pages.github.com/)
     
     - [Deploys](https://docs.netlify.com/site-deploys/overview/#deploy-summary)
+    
+    - [Build steps](https://vercel.com/docs/build-step)
 
 - :headphones: Screencasts
 
