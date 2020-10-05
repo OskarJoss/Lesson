@@ -33,10 +33,10 @@ Netlify and Vercel is cloud computing companies that offers hosting and serverle
     <html lang="en">
         <head>
             <meta charset="utf-8" />
-            <title>GitHub Pages</title>
+            <title>Netlify</title>
         </head>
         <body>
-            <h1>Hello GitHub!</h1>
+            <h1>Hello Netlify!</h1>
         </body>
     </html>
     ```
