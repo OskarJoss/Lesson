@@ -1,10 +1,8 @@
 <img src="https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.gif" width="100%">
 
-# XX - Netlify & Vercel
+# 04 - Netlify & Vercel
 
-In this lesson we're going to create a portfolio and host the website on [Netlify](https://www.netlify.com/).
-
->Netlify is a static site hosting service designed to host your personal, organization, or project pages directly from a GitHub repository. Netlify is a static site hosting service and doesn't support server-side code such as, PHP, Ruby, or Python - [Netlify](https://www.netlify.com/)
+Netlify and Vercel is cloud computing companies that offers hosting and serverless backend services for web applications and static websites.
 
 - :books: Documentation
 
@@ -30,7 +28,7 @@ In this lesson we're going to create a portfolio and host the website on [Netlif
 
 > **Tips:** Remember how to get the project to your local computer? [Clone your new repository](https://help.github.com/en/articles/cloning-a-repository)
    
-        ```html
+    ```html
     <!DOCTYPE html>
     <html lang="en">
         <head>
@@ -51,11 +49,7 @@ In this lesson we're going to create a portfolio and host the website on [Netlif
 
 6. Update your website with an [`<img>`](https://htmlreference.io/element/img) of yourself along with your name. Also add links to your social media accounts.
 
-    > **Note:** If you want to use the GitHub profile picture you can use the following URL:
-    >
-    > ```
-    > https://github.com/username.png
-    > ```
+    > **Tip:** If you want to use the GitHub profile picture you can use the following URL: https://github.com/username.png
 
 7. Personalize your portfolio by adding custom CSS. Make it look pretty and cool. Don't forget about [unicorns](https://media.giphy.com/media/wxZVenBE9msRq/giphy.gif)! When you feel ready, please show your website to your teacher!
 
