@@ -13,7 +13,15 @@ In this lesson we're going to create a portfolio and host the website on [Netlif
     - [Vercel](https://vercel.com/docs/git-integrations)
     
     - [Github pages](https://pages.github.com/)
+    
+    - [Deploys](https://docs.netlify.com/site-deploys/overview/#deploy-summary)
 
+- :headphones: Screencasts
+
+    - [Netlify](https://www.youtube.com/watch?v=bjVUqvcCnxM)
+    
+    - [Vercel](https://www.youtube.com/watch?v=6YRymPx1-4s)
+    
 ## Exercises
 
 1. Create a new [repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) on Github
